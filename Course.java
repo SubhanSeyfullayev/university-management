@@ -77,7 +77,7 @@ public class Course {
         this.courseCode = courseCode;
     }
 
-    public int getcredits() {
+    public int getCredits() {
         return credits;
     }
 
